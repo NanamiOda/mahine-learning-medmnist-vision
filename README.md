@@ -1,5 +1,5 @@
 # Proyecto modulo 2 - Vision artificial
-Dentro de este proyecto se estudiara el reconocimiento de patrones visuales en **Enfermedades de pulmonia**, utilizando el data set de **PneumoniaMNIST**.
+Dentro de este proyecto se estudiara el reconocimiento de patrones visuales en **Enfermedades de pulmonia**, utilizando el data set de [**PneumoniaMNIST**](https://medmnist.com/).
 
 El contenido almacenado en este repositorio sera principalmente el codigo de la investigacion y la documentacion del mismo.
 ## Paquetes requeridos
